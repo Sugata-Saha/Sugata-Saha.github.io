@@ -1,6 +1,4 @@
-/* Cascading stylesheet for the website */
 
-/* Text inside these asterisks and slashes are comments for human */
 
   a {
     color: blue;/* set the text color to blue here */
@@ -54,7 +52,7 @@
     margin-top: 3rem;
   }
 
-  /* this controls how the bullet points in the resume page looks */
+
   ul {
     display: table;
     margin: 0 auto;
